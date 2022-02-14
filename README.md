@@ -54,7 +54,7 @@ print("Cluster group for application income 9000 and loanamount 120 is:",predict
 ```
 ## Output:
 
-![](./output.jpgs)
+![](./output.jpg)
 
 
 <br>
